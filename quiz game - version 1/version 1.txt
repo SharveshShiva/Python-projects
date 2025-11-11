@@ -1,0 +1,19 @@
+🧠 Quiz Game – Version 1.0
+
+Features:
+
+Choose difficulty level (Easy / Hard)
+
+Select a genre (Animals, History, Sports, Film, or General Knowledge)
+
+Displays questions one by one and tracks the final score
+
+Clean and modular structure using multiple files (main.py, data.py, quiz_brain.py, question_model.py)
+
+Next Update (v2.0):
+
+Add random question order
+
+Include replay option
+
+Show live score updates after each question
